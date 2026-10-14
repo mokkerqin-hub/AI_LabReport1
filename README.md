@@ -1,7 +1,6 @@
 # BFS & DFS | Interactive Uninformed Search
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ailabreport1.streamlit.app)
-[![Tests](https://github.com/mokkerqin-hub/AI_LabReport1/actions/workflows/tests.yml/badge.svg)](https://github.com/mokkerqin-hub/AI_LabReport1/actions/workflows/tests.yml)
 
 BSD3513 Introduction to Artificial Intelligence — Lab Report 1 · Mok Ker Qin · UMPSA
 
@@ -34,13 +33,10 @@ pip install -r requirements.txt
 streamlit run bfsdfs.py
 ```
 
-Run the tests with `pip install pytest` then `python -m pytest -q`.
-
 ## Project structure
 ```
 bfsdfs.py            # Streamlit app
 requirements.txt     # dependencies
-tests/               # pytest unit tests
 screenshots/         # README images
 ```
 
