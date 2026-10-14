@@ -12,5 +12,6 @@ A Streamlit app that runs Breadth-First Search (BFS) and Depth-First Search (DFS
 
 ## Run locally
 ```bash
+pip install -r requirements.txt
 streamlit run bfsdfs.py
 ```
