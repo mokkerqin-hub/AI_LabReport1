@@ -138,7 +138,7 @@ def reset_defaults():
 
 st.set_page_config(page_title='BSD3513 | LAB REPORT 1', page_icon='🔎', layout='wide')
 st.title('BFS & DFS | Interactive Uninformed Search Algorithms')
-st.caption('BSD3513 Introduction to Artificial Intelligence · Lab Report 1 · Breadth First Search & Depth First Search')
+st.caption('BSD3513 Artificial Intelligence · Lab Report 1 · Mok Ker Qin · Breath First Search  & Depth First Search · Alphabetical tie-breaking · UMPSA')
 
 with st.expander('Learning guide', expanded=False):
     st.markdown('**BFS** explores level by level using a FIFO queue; **DFS** explores deeply using a LIFO stack. For adjacency-list implementations both require **O(V + E)** time. BFS finds minimum-hop paths in unweighted graphs; DFS does not guarantee this.')
