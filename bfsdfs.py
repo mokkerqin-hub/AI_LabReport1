@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import time
 from collections import deque
 
-# Lab Report 1, Question 2 graph, read from the figure (11 directed edges)
 GRAPH = {'A':['B','D'], 'B':['C','E','G'], 'C':['A'], 'D':['C'], 'E':['H'], 'F':[], 'G':['F'], 'H':['F','G']}
 
 
@@ -137,9 +136,9 @@ def reset_defaults():
         del st.session_state[key]  # step sliders go back to the last step
 
 
-st.set_page_config(page_title='BSD3513 | BFS & DFS Lab#1', page_icon='🔎', layout='wide')
+st.set_page_config(page_title='BSD3513 | LAB REPORT 1', page_icon='🔎', layout='wide')
 st.title('BFS & DFS | Interactive Uninformed Search Algorithms')
-st.caption('BSD3513 Introduction to Artificial Intelligence · Lab Report 1 · Breadth First Search & Depth First Search · Alphabetical tie-breaking · UMPSA')
+st.caption('BSD3513 Introduction to Artificial Intelligence · Lab Report 1 · Breadth First Search & Depth First Search')
 
 with st.expander('Learning guide', expanded=False):
     st.markdown('**BFS** explores level by level using a FIFO queue; **DFS** explores deeply using a LIFO stack. For adjacency-list implementations both require **O(V + E)** time. BFS finds minimum-hop paths in unweighted graphs; DFS does not guarantee this.')
