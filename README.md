@@ -2,7 +2,7 @@
 
 A Streamlit app that runs Breadth-First Search (BFS) and Depth-First Search (DFS) on a directed graph with alphabetical tie-breaking.
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app
+**Live app:** https://ailabreport1.streamlit.app
 
 ## Features
 - BFS and DFS step-by-step trace with graph visualisation
