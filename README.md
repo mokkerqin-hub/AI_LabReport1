@@ -15,7 +15,7 @@ A Streamlit app that runs Breadth-First Search (BFS) and Depth-First Search (DFS
 - BFS and DFS step-by-step trace with graph visualisation
 - Autoplay animation with adjustable speed
 - BFS vs DFS comparison table
-- Reset to default settings
+- Reset to default settings (autoplay speed)
 
 | BFS search | DFS search |
 |---|---|
