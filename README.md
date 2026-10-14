@@ -1,6 +1,4 @@
-# BFS & DFS | Interactive Uninformed Search Algorithms
-
-BSD3513 Introduction to Artificial Intelligence — Lab Report 1
+# BSD3513 Introduction to Artificial Intelligence — Lab Report 1
 
 A Streamlit app that runs Breadth-First Search (BFS) and Depth-First Search (DFS) on a directed graph with alphabetical tie-breaking.
 
