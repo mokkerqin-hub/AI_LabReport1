@@ -26,9 +26,9 @@ A Streamlit app that runs Breadth-First Search (BFS) and Depth-First Search (DFS
 | ![Autoplay](screenshots/app_bfs_autoplay.png) | ![Comparison](screenshots/app_comparison.png) |
 
 ## Run locally
+1. Download this repo (green Code button → Download ZIP) and unzip it.
+2. Open a terminal in the folder and run:
 ```bash
-git clone https://github.com/mokkerqin-hub/AI_LabReport1.git
-cd AI_LabReport1
 pip install -r requirements.txt
 streamlit run bfsdfs.py
 ```
