@@ -9,7 +9,7 @@ A Streamlit app that runs Breadth-First Search (BFS) and Depth-First Search (DFS
 
 **Live app:** https://ailabreport1.streamlit.app
 
-![App overview](screenshots/overview.png)
+![App overview](screenshots/app_cover.png)
 
 ## Features
 - Editable directed graph (Lab 1 graph by default)
@@ -20,11 +20,11 @@ A Streamlit app that runs Breadth-First Search (BFS) and Depth-First Search (DFS
 
 | BFS search | DFS search |
 |---|---|
-| ![BFS](screenshots/bfs.png) | ![DFS](screenshots/dfs.png) |
+| ![BFS](screenshots/app_bfs.png) | ![DFS](screenshots/app_dfs.png) |
 
 | Autoplay (BFS in progress) | BFS vs DFS comparison |
 |---|---|
-| ![Autoplay](screenshots/autoplay.png) | ![Comparison](screenshots/comparison.png) |
+| ![Autoplay](screenshots/app_bfs_autoplay.png) | ![Comparison](screenshots/app_comparison.png) |
 
 ## Run locally
 ```bash
